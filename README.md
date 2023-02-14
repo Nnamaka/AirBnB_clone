@@ -265,24 +265,19 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Dike Nnamaka</summary>
     <ul>
-    <li><a href="[https://www.github.com/aysuarex](https://github.com/Nnamaka)">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:nnamaka7@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/Nnamaka">Github</a></li>
+    <li><a href="https://twitter.com/DNnamaka">Twitter</a></li>
+    <li><a href="nnamaka7@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
     <summary>Deborah Oduronbi,</summary>
     <ul>
-    <li><a href="[https://www.github.com/lexxyla](https://github.com/cooldebs)">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:doduronbi83@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/cooldebs">Github</a></li>
+    <li><a href="https://twitter.com/smalldhee">Twitter</a></li>
+    <li><a href="doduronbi83@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
 
-@smalldhee
-
-
-
-@DNnamaka
 
